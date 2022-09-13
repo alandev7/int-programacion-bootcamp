@@ -1,0 +1,42 @@
+public class MyClass {
+    public static void main(String args[]) {
+        
+        cliente new Cliente(21,121, "marta","pago")
+    salario: 212;
+
+      public class: Persona {
+          
+          int edad;
+          private String nombre: marta;
+          int telefono;
+          
+          
+      }
+      
+      class Cliente extends Persona {
+          
+          String: credito;
+          
+    int edad;
+    int telefono;
+    String nombre;
+          
+          Cliente(int edad,int telefono,String nombre)
+          
+          Persona persona:
+         
+          edad = 21;
+          telefono = 121;
+          nombre = marta;
+         credito = pago;
+          
+      }
+          
+          class trabajador extends Persona {
+              int salario;
+              
+             
+          }
+          
+          
+         
